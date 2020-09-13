@@ -6,6 +6,6 @@ a yellow sticker should be placed on the 'd' key, and a pink one on the 'l' key.
 
 The participant is given 1000ms to respond to a go stimulus. The delay for the stop signal is 250ms at the start of the experiment. This delay is decreased by 50ms when the participant gives a response during a nogo trial, and increased by 50ms when the participant does not respond.
 
-This program was made using the jsPsych library. It's a great framework for anyone with limited programming knowledge that wants to code a psychology study while also learning about HTML, JavaScript, and CSS. You can look into it more at <a href="www.jspsych.org">www.jspsych.org</a>.
+This program was made using the jsPsych library. It's a great framework for anyone with limited programming knowledge that wants to code a psychology study while also learning about HTML, JavaScript, and CSS. You can look into it more at <a href="https://www.jspsych.org">www.jspsych.org</a>.
 
 This was the first JavaScript program I had ever written, and I wrote it without any prior knowledge in JavaScript or HTML. This is where I first learned about JavaScript syntax, objects, variables, and functions.
